@@ -471,7 +471,7 @@ namespace AwakeningItemTool
                     inputByte = Convert.ToByte(value);
                 }
             }
-            catch (Exception e)
+            catch
             {
                changedTextBox.BackColor = Color.FromArgb(255, 128, 128);
                saveGameDatabinToolStripMenuItem.Enabled = false;
@@ -499,7 +499,7 @@ namespace AwakeningItemTool
                     inputShort = Convert.ToUInt16(value);
                 }
             }
-            catch (Exception e)
+            catch
             {
                 changedTextBox.BackColor = Color.FromArgb(255, 128, 128);
                 saveGameDatabinToolStripMenuItem.Enabled = false;
