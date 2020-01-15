@@ -1,0 +1,202 @@
+﻿IID_無し,None
+IID_青銅の剣,Bronze Sword
+IID_鉄の剣,Iron Sword
+IID_鋼の剣,Steel Sword
+IID_銀の剣,Silver Sword
+IID_勇者の剣,Brave Sword
+IID_アーマーキラー,Armorslayer
+IID_ドラゴンキラー,Wyrmslayer
+IID_キルソード,Killing Edge
+IID_サンダーソード,Levin Sword
+IID_レイピア,Rapier
+IID_ノーブルレイピア,Noble Rapier
+IID_ミステルトィン,Missiletainn
+IID_太陽,Sol
+IID_アマツ,Amatsu
+IID_封剣ファルシオン,Falchion
+IID_神剣ファルシオン,Exalted Falchion
+IID_裏剣ファルシオン,Parallel Falchion
+IID_メリクル,Mercurius
+IID_ティルフィング,Tyrfing
+IID_ミストルティン,Mystletainn
+IID_バルムンク,Balmung
+IID_ソール・カティ,Sol Katti
+IID_ラグネル,Ragnell
+IID_ラグネル（敵）,Ragnell (Enemy)
+IID_木の枝,Tree Branch
+IID_いやされる剣,Soothing Sword
+IID_ガラスの剣,Glass Sword
+IID_剣殺しの剣,Superior Edge
+IID_エリウッドの鋼剣,Eliwood's Blade
+IID_ロイの硬剣,Roy's Blade
+IID_アルムの覇剣,Alm's Blade
+IID_リーフの宝剣,Leif's Blade
+IID_エイリークの疾剣,Eirika's Blade
+IID_セリスの神剣,Seliph's Blade
+IID_青銅の槍,Bronze Lance
+IID_鉄の槍,Iron Lance
+IID_鋼の槍,Steel Lance
+IID_銀の槍,Silver Lance
+IID_勇者の槍,Brave Lance
+IID_手槍,Javelin
+IID_ショートスピア,Short Spear
+IID_スレンドスピア,Spear
+IID_ビーストキラー,Beast Killer
+IID_聖なる槍,Blessed Lance
+IID_キラーランス,Killer Lance
+IID_月光,Luna
+IID_グラディウス,Gradivus
+IID_グングニル,Gungnir
+IID_ゲイボルグ,Gáe Bolg
+IID_丸太,Log
+IID_極小の槍,Miniature Lance
+IID_しびれる槍,Shockstick
+IID_ガラスの槍,Glass Lance
+IID_槍殺しの槍,Superior Lance
+IID_シグルドの鋼槍,Sigurd's Lance
+IID_エフラムの勇槍,Ephraim's Lance
+IID_フィンの守槍,Finn's Lance
+IID_青銅の斧,Bronze Axe
+IID_鉄の斧,Iron Axe
+IID_鋼の斧,Steel Axe
+IID_銀の斧,Silver Axe
+IID_勇者の斧,Brave Axe
+IID_手斧,Hand Axe
+IID_ショートアクス,Short Axe
+IID_トマホーク,Tomahawk
+IID_ハンマー,Hammer
+IID_ボルトアクス,Bolt Axe
+IID_キラーアクス,Killer Axe
+IID_復讐,Vengeance
+IID_ヴォルフベルグ,Wolf Berg
+IID_オートクレール,Hauteclere
+IID_スワンチカ,Helswath
+IID_アルマーズ,Armads
+IID_おたま,Ladle
+IID_極太の斧,Imposing Axe
+IID_空投げ斧,Volant Axe
+IID_ガラスの斧,Glass Axe
+IID_斧殺しの斧,Superior Axe
+IID_ティアマトの赤斧,Titania's Axe
+IID_オーシンの投げ斧,Orsin's Hatchet
+IID_ヘクトルの烈斧,Hector's Axe
+IID_青銅の弓,Bronze Bow
+IID_鉄の弓,Iron Bow
+IID_鋼の弓,Steel Bow
+IID_銀の弓,Silver Bow
+IID_勇者の弓,Brave Bow
+IID_聖なる弓,Blessed Bow
+IID_キラーボウ,Killer Bow
+IID_ロングボウ,Longbow
+IID_流星,Astra
+IID_パルティア,Parthia
+IID_イチイバル,Yewfelle
+IID_ニーズヘッグ,Nidhogg
+IID_バルフレチェ,Double Bow
+IID_ゆるんだ弓,Slack Bow
+IID_極長の弓,Towering Bow
+IID_下剋上の弓,Underdog Bow
+IID_ガラスの弓,Glass Bow
+IID_弓殺しの弓,Superior Bow
+IID_ウォルトの薬弓,Wolt's Bow
+IID_ヒーニアスの的弓,Innes' Bow
+IID_ファイアー,Fire
+IID_エルファイアー,Elfire
+IID_ギガファイアー,Arcfire
+IID_ボルガノン,Bolganone
+IID_ファラフレイム,Valflame
+IID_サンダー,Thunder
+IID_エルサンダー,Elthunder
+IID_ギガサンダー,Arcthunder
+IID_トロン,Thoron
+IID_トールハンマー,Mjölnir
+IID_ウインド,Wind
+IID_エルウインド,Elwind
+IID_ギガウインド,Arcwind
+IID_レクスカリバー,Rexcalibur
+IID_フォルセティ,Forseti
+IID_エクスカリバー,Excalibur
+IID_聖書ナーガ,Book of Naga
+IID_ミィル,Flux
+IID_リザイア,Nosferatu
+IID_ルイン,Ruin
+IID_イル,Waste
+IID_ゲーティア,Goetia
+IID_魔書ギムレー,Grima's Truth
+IID_スライム,Mire
+IID_燃え尽きる炎,Dying Blaze
+IID_ミカヤの神炎,Micaiah's Pyre
+IID_魔殺しの雷,Superior Jolt
+IID_カタリナの雷糸,Katarina's Bolt
+IID_気まぐれな風,Wilderwind
+IID_セリカの疾風,Celica's Gale
+IID_インバースの暗闇,Aversa's Night
+IID_ライブ,Heal
+IID_リライブ,Mend
+IID_リブロー,Physic
+IID_リカバー,Recover
+IID_リザーブ,Fortify
+IID_女神の杖,Goddess Staff
+IID_レスキュー,Rescue
+IID_マジックシールド,Ward
+IID_ハマーン,Hammerne
+IID_肩たたき,Kneader
+IID_薬効ある杖,Balmwood Staff
+IID_リライブロー,Catharsis
+IID_竜石,Dragonstone
+IID_真竜石,Dragonstone+
+IID_獣石,Beaststone
+IID_超獣石,Beaststone+
+IID_腐った爪,Blighted Claw
+IID_腐った長爪,Blighted Talons
+IID_邪竜のブレス,Expiration
+IID_傷薬,Vulnerary
+IID_調合薬,Concoction
+IID_特効薬,Elixir
+IID_聖水,Pure Water
+IID_ＨＰの薬,HP Tonic
+IID_力の薬,Strength Tonic
+IID_魔力の薬,Magic Tonic
+IID_技の薬,Skill Tonic
+IID_速さの薬,Speed Tonic
+IID_幸運の薬,Luck Tonic
+IID_守備の薬,Defense Tonic
+IID_魔防の薬,Resistance Tonic
+IID_扉の鍵,Door Key
+IID_宝の鍵,Chest Key
+IID_万能鍵,Master Key
+IID_天使の衣,Seraph Robe
+IID_力のしずく,Energy Drop
+IID_精霊の粉,Spirit Dust
+IID_秘伝の書,Secret Book
+IID_はやての羽,Speedwing
+IID_女神の像,Goddess Icon
+IID_竜の盾,Dracoshield
+IID_魔よけ,Talisman
+IID_神竜の涙,Naga's Tear
+IID_ブーツ,Boots
+IID_術書,Arms Scroll
+IID_マスタープルフ,Master Seal
+IID_セカンドプルフ,Second Seal
+IID_金塊（小）,Bullion (S)
+IID_金塊（中）,Bullion (M)
+IID_金塊（大）,Bullion (L)
+IID_甘い薬,Sweet Tincture
+IID_ガイアの高級菓子,Gaius's Confect
+IID_クリスの手製菓子,Kris's Confect
+IID_チキの涙,Tiki's Tear
+IID_絆の種,Seed of Trust
+IID_禁じられた箱,Reeking Box
+IID_時空の扉,Rift Door
+IID_究極の紋章,Supreme Emblem
+IID_予約０１,DLC Item 1
+IID_予約０２,DLC Item 2
+IID_予約０３,DLC Item 3
+IID_予約０４,DLC Item 4
+IID_予約０５,DLC Item 5
+IID_予約０６,DLC Item 6
+IID_予約０７,DLC Item 7
+IID_１０００Ｇ,1000G
+IID_３０００Ｇ,3000G
+IID_５０００Ｇ,5000G
+IID_７０００Ｇ,7000G
